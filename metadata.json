@@ -1,0 +1,6 @@
+{
+  "name": "Medical & Social Attachments System",
+  "description": "An ingestion, classification, and integration API system for medical and social attachments with centralized storage pathways and AI-powered extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
